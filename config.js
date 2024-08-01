@@ -1,7 +1,7 @@
 global.owner = ['6283138453451']  
 global.mods = ['6288218774193'] 
 global.prems = ['6283138453451']
-global.nameowner = 'Lann'
+global.nameowner = 'Dizzz?'
 global.numberowner = '6283138453451'
 global.mail = '-' 
 global.gc = '-'
